@@ -1,4 +1,4 @@
-﻿class EmployeeProjectWorkPeriod
+﻿public class EmployeeProjectWorkPeriod
 {
     public int EmployeeId { get; set; }
 
